@@ -1,10 +1,10 @@
 vehicle,is_dui,wearing_safety,driving_speed,death_due_to_accident
 car,yes,no,high,yes
-car,yes,yes,low,no
+car,no,yes,low,no
 bike,no,yes,low,no
 car,yes,no,low,no
 bike,yes,no,high,yes
-car,yes,no,high,yes
+car,no,no,high,no
 bike,yes,no,high,yes
 car,no,yes,high,no
 bike,no,yes,high,no
