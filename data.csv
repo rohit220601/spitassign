@@ -1,11 +1,11 @@
-    Country     Sports  Gender              League  Winning_Gold
-    India  Badminton    Male  WorldChampionships             1
-    India  Badminton  Female            Olympics             1
-  America   LongJump    Male            Olympics             1
-    China   Swimming    Male  WorldChampionships             1
-    China  Badminton    Male  WorldChampionships             0
-  America   LongJump  Female            Olympics             1
-    China   LongJump    Male                 SWL             0
-  America  Badminton    Male  WorldChampionships             0
-    India   LongJump  Female            Olympics             0
-    India   LongJump    Male            Olympics             1
+Country     Sports  Gender              League  Winning_Gold
+India  Badminton    Male  WorldChampionships             1
+India  Badminton  Female            Olympics             1
+America   LongJump    Male            Olympics             1
+China   Swimming    Male  WorldChampionships             1
+China  Badminton    Male  WorldChampionships             0
+America   LongJump  Female            Olympics             1
+China   LongJump    Male                 SWL             0
+America  Badminton    Male  WorldChampionships             0
+India   LongJump  Female            Olympics             0
+India   LongJump    Male            Olympics             1
